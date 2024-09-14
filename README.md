@@ -4,8 +4,11 @@ https://danylotytarenko.github.io/mimino-project/
 
 ## Project Overview
 
-Mimino Project is focusing on creating a responsive, interactive user interface. 
-The project showcases the use of modern frontend tools to build dynamic, reusable components for efficient and scalable web development.
+A website of a restaurant-hotel complex. An intuitive online
+reservation system, allowing guests to book rooms, suites, and amenities effortlessly.
+Team project.
+I create the website's main section, incorporating dynamic animations and ensuring that
+it looks great and works well on all types of devices.
 
 ## Installation
 
